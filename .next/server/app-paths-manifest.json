@@ -1,0 +1,9 @@
+{
+  "/page": "app/page.js",
+  "/news/page": "app/news/page.js",
+  "/weather/page": "app/weather/page.js",
+  "/call-center/page": "app/call-center/page.js",
+  "/farmer/page": "app/farmer/page.js",
+  "/disease-detection/page": "app/disease-detection/page.js",
+  "/fertilizer-recommendations/page": "app/fertilizer-recommendations/page.js"
+}
